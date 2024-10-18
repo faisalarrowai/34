@@ -1,1 +1,32 @@
-
+appName: evil-coral
+appUniqueId: faisalarrowai/evil-coral
+appInfo:
+  description: Developer Portfolio
+  appVersion: 1.0.0
+  appRepoUrl: https://github.com/faisalarrowai/34.git
+  appIconUrl: ''
+  appAuthorUserId: faisalarrowai
+  forkedFrom: ''
+technicalInfo:
+  supportedLanguages: []
+  supportedFrameworks: []
+  secrets: []
+  services: []
+  knowledgebases: []
+  instruction: []
+usage:
+  develop:
+    run: []
+    agents: []
+    layout: ''
+  install:
+    steps: []
+    customInstallationAgent:
+      enabled: false
+      agent: ''
+  appUse:
+    prerunsteps: []
+    agents: []
+    layout: ''
+    appPreview:
+      type: ''
