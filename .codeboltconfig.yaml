@@ -16,9 +16,11 @@ technicalInfo:
   instruction: []
 usage:
   develop:
-    run: []
     agents: []
     layout: ''
+    run:
+      - shell:
+          command: npx run http-server
   install:
     steps: []
     customInstallationAgent:
