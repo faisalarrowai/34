@@ -20,7 +20,7 @@ usage:
     layout: ''
     run:
       - shell:
-          command: npx run http-server
+          command: 
   install:
     steps: []
     customInstallationAgent:
